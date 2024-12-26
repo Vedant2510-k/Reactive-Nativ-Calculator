@@ -1,5 +1,5 @@
 # React Native Calculator  
-**Calc by Prashant**
+**Calculator by Vedant**
 
 A React Native calculator with light and dark theme toggling.
 
